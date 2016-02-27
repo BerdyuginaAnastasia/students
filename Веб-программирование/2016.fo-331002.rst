@@ -29,7 +29,7 @@
      -
    * - 2
      - Бердюгина Анастасия Олеговна
-     -
+     -BerdyuginaAnastasia_
      -
      -
      -
@@ -128,7 +128,7 @@
      -
    * - 11
      - Фаткуллин Рустам Русланович
-     - Porader_
+     -
      -
      -
      -
@@ -204,7 +204,7 @@
 .. _sarafanovde: https://github.com/sarafanovde
 .. _maksimemelyanov: https://github.com/maksimemelyanov
 .. _Dizrax: https://github.com/Dizrax
-.. _Porader: https://github.com/Porader
+.. _BerdyuginaAnastasia: https://github.com/BerdyuginaAnastasia
 
 .. Домашняя работа #1
 
